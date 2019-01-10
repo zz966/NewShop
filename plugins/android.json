@@ -1,0 +1,58 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-app-version": {
+      "PACKAGE_NAME": "link.forfun"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "link.forfun"
+    },
+    "cordova-plugin-email-composer": {
+      "PACKAGE_NAME": "link.forfun"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "link.forfun"
+    },
+    "cordova-plugin-native-spinner": {
+      "PACKAGE_NAME": "link.forfun"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "link.forfun"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "link.forfun"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "link.forfun"
+    },
+    "cordova-plugin-themeablebrowser": {
+      "PACKAGE_NAME": "link.forfun"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "link.forfun"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "link.forfun"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "link.forfun"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "link.forfun"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "link.forfun"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "link.forfun"
+    }
+  }
+}

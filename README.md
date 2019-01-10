@@ -1,1 +1,1 @@
-# NewShop
+ionic wooCommerce hybrid mobile application
