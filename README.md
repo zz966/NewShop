@@ -1,1 +1,2 @@
-ionic wooCommerce hybrid mobile application
+ionic wooCommerce hybrid mobile application (deprecated)
+
